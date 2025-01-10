@@ -38,13 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    title: 'Siddharth Agarwala',
+    subtitle: 'Mechanical Engineer',
+    description: 'Engineering and Photography Portfolio',
     headerNavLinks: [
         {
             text: 'Home',
@@ -55,49 +51,25 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Photography',
+            href: 'https://photos.google.com/'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
-        },
-        {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Connect With me on LinkedIn',
+            href: 'https://www.linkedin.com/in/siddharth-agarwala/'
         },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: '',
+        text: "I am a sophomore mechanical engineering student at the University of Texas at Austin with experience in design for manufacturing, simulation, project management, machining, and constructing physical prototypes. I am interested in pursuing automotive engineering, aerospace engineering, robotics, and manufacturing.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
@@ -108,11 +80,6 @@ const siteConfig: SiteConfig = {
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8

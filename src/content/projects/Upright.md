@@ -1,7 +1,7 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+title: 'FSAE Rear Upright'
+description: 'Designed, validated, and manufactured rear uprights for the Longhorn Racing IC car'
+publishDate: 'January 10 2025'
 isFeatured: true
 seo:
   image:
@@ -9,12 +9,12 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/car-967387_1280.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Project Overview
 
-**Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+
+<!-- TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
 
 > Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
 
@@ -61,4 +61,4 @@ TimeWarp Travel Agency aims to redefine the travel experience by offering an inn
 
 The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
